@@ -1,0 +1,7 @@
+[package]
+name = "orrp"
+version = "0.1.0"
+authors = ["andrew"]
+
+[dependencies]
+open = "1.2.2"
