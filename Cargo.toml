@@ -1,7 +1,9 @@
 [package]
 name = "orrp"
 version = "0.1.0"
-authors = ["andrew"]
+authors = ["Andrew Halle ahalle@berkeley.edu"]
+description = "Open a Random Rust Page"
+license = "MIT OR Apache-2.0"
 
 [dependencies]
 open = "1.2.2"
